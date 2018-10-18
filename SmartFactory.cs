@@ -9,7 +9,7 @@ namespace SmartFactory
         static void Main(string[] args)
         {
             int i = 3;
-            Console.WriteLine("{0} dddd", i);
+            Console.WriteLine("{0} ", i);
         }
 
         
